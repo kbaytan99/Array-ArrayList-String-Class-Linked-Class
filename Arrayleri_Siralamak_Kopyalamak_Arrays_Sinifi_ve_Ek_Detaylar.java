@@ -44,5 +44,5 @@ public class Arrayleri_Siralamak_Kopyalamak_Arrays_Sinifi_ve_Ek_Detaylar {
 		}
 		//ESIT DEGILER CUNKU FARKLI YONLERI GOSTERIYORLAR
 		//EGER == SE ESIT DEGIL, EGER EQUALS SE ESIT
-	}
+	} 
 }
